@@ -2,7 +2,7 @@
 import tkinter as tk
 
 import requests
-API_KEY = "d86c57272ce5cc12c8646f6578acb90b"
+API_KEY = "enter yours API"
 
 
 
